@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="mamun-321005" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="mamun-321005">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/seip-project/abdullah-al-mamun-321005/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

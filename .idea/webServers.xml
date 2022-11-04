@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a4035a60-ac2c-489f-8ec0-f89d0a71155d" name="mamun-321005" url="http://localhost:8080">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\seip-project\abdullah-al-mamun-321005" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

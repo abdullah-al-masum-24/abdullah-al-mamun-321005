@@ -1,0 +1,22 @@
+{
+  "name": "abdullah-al-mamun-321005/abdullah-al-mamun-321005",
+  "description": "This is a oop php project",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "UseR",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\" : "app//"
+    }
+  }
+}
